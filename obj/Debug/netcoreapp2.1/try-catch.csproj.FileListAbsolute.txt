@@ -1,0 +1,11 @@
+C:\Users\Priya\workspace\csharp\exercise\try-catch\obj\Debug\netcoreapp2.1\try-catch.csprojAssemblyReference.cache
+C:\Users\Priya\workspace\csharp\exercise\try-catch\obj\Debug\netcoreapp2.1\try-catch.csproj.CoreCompileInputs.cache
+C:\Users\Priya\workspace\csharp\exercise\try-catch\obj\Debug\netcoreapp2.1\try-catch.AssemblyInfoInputs.cache
+C:\Users\Priya\workspace\csharp\exercise\try-catch\obj\Debug\netcoreapp2.1\try-catch.AssemblyInfo.cs
+C:\Users\Priya\workspace\csharp\exercise\try-catch\bin\Debug\netcoreapp2.1\try-catch.deps.json
+C:\Users\Priya\workspace\csharp\exercise\try-catch\bin\Debug\netcoreapp2.1\try-catch.runtimeconfig.json
+C:\Users\Priya\workspace\csharp\exercise\try-catch\bin\Debug\netcoreapp2.1\try-catch.runtimeconfig.dev.json
+C:\Users\Priya\workspace\csharp\exercise\try-catch\bin\Debug\netcoreapp2.1\try-catch.dll
+C:\Users\Priya\workspace\csharp\exercise\try-catch\bin\Debug\netcoreapp2.1\try-catch.pdb
+C:\Users\Priya\workspace\csharp\exercise\try-catch\obj\Debug\netcoreapp2.1\try-catch.dll
+C:\Users\Priya\workspace\csharp\exercise\try-catch\obj\Debug\netcoreapp2.1\try-catch.pdb
